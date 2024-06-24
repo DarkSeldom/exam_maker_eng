@@ -1,0 +1,58 @@
+{
+  "Math": {
+    "Lesson1": {
+      "question1": {
+        "question_msg": "What is 2 times 2",
+        "answer_msg": "4",
+        "difficulty": "easy"
+      }
+    },
+    "Lesson2": {
+      "question1": {
+        "question_msg": "What is 3 times 3",
+        "answer_msg": "9",
+        "difficulty": "easy"
+      },
+      "question2": {
+        "question_msg": "What is 5 to the power of 3",
+        "answer_msg": "125",
+        "difficulty": "medium"
+      }
+    },
+    "Lesson3": {
+      "question1": {
+        "question_msg": "whats 5-3",
+        "answer_msg": "2",
+        "difficulty": "easy"
+      },
+      "question2": {
+        "question_msg": "(2*3)^2",
+        "answer_msg": "36",
+        "difficulty": "hard"
+      }
+    }
+  },
+  "Book2": {
+    "Lesson1": {
+      "question1": {
+        "question_msg": "question_msg1",
+        "answer_msg": "answer_msg1",
+        "difficulty": "difficulty1"
+      },
+      "question2": {
+        "question_msg": "question_msg2",
+        "answer_msg": "answer_msg2",
+        "difficulty": "difficulty2"
+      }
+    },
+    "Lesson2": {
+      "question1": {
+        "question_msg": "question_msg1",
+        "answer_msg": "answer_msg1",
+        "difficulty": "difficulty1"
+      }
+    }
+  }
+}
+
+
